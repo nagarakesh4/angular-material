@@ -1,1 +1,6 @@
-# angular-material-psight
+# angular-material
+Implemented through : 
+npm, 
+bower, 
+live-reload, 
+typescript
