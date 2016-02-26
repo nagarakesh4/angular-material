@@ -1,0 +1,24 @@
+{
+  "name": "angular-material",
+  "description": "beta version of material design and angularjs",
+  "main": "index.js",
+  "authors": [
+    "Venkata Buddhiraju"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angularjs",
+    "material-design",
+    "bower",
+    "nodejs"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

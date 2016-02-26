@@ -1,0 +1,8 @@
+//how to comile typescript files
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "outDir": "../dist/"
+    }
+}
